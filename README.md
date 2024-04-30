@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Ligthning Network
 - 📫 How to reach me ....
 
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ibiko1?style=social)](https://twitter.com/ibiko1)
 
 <!---
