@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifuensan
 - 👀 I’m interested in Bitcoin and Ligthning Network
-- 🌱 I’m currently helping in b4os.dev
+- 🌱 I’m currently helping in [b4os.dev](https://b4os.dev)
 - 💞️ I’m looking to collaborate on Bitcoin Core and Ligthning Network
 - 📫 How to reach me ....
 
