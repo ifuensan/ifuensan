@@ -8,7 +8,7 @@
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin_Core-Great)
+![Bitcoin](https://img.shields.io/badge/Bitcoin_Core-I_Like)
 
 <!---
 ifuensan/ifuensan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
