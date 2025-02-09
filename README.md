@@ -10,6 +10,8 @@
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin%Core%I%Like-8A2BE2)
 
+[Algo](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
 <!---
 ifuensan/ifuensan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
