@@ -10,6 +10,9 @@
 
 ![Algo](https://img.shields.io/badge/I%20Love%20Bitcoin-8A2BE2&logo=bitcoin&logoColor=white)
 
+![Nostr.band Followers](https://img.shields.io/nostr-band/followers/:npub)
+
+
 <!---
 ifuensan/ifuensan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
