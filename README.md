@@ -4,14 +4,7 @@
 - 💞️ I'm trying to contribute to the development of Cashu, Ligthning Network and Bitcoin Core.
 - 📫 How to reach me ....
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanfuentessanchez/)
-
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-
-![Algo](https://img.shields.io/badge/I%20Love%20Bitcoin-8A2BE2&logo=bitcoin&logoColor=white)
-
-![Nostr.band Followers](https://img.shields.io/nostr-band/followers/:npub)
-
 
 <!---
 ifuensan/ifuensan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
